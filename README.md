@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📘 Portafolio de Evidencias
+# 📘 Portafolio de Evidencias  
 
-### Guillermo Godinez Chacon
+### Guillermo Godinez Chacon  
 
 **CSTI12002 · Codificación de páginas web** · Instituto Nacional de Aprendizaje
 Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
