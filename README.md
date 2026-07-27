@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 # 📘 Portafolio de Evidencias
 
@@ -52,7 +52,7 @@ Portafolio-Codificación de Páginas Web/
 | :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
 |  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/) |
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
 | Sesión | Tema                           | Qué aprendí                                                            |      Trabajo      |             Captura             |
@@ -60,14 +60,14 @@ Portafolio-Codificación de Páginas Web/
 |  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo                   | [ver](unidad-02/) | [ver](recursos/img-recorte.png) |
 |  S03   | Estructura del documento HTML5 |                                                                        | [ver](unidad-02/) |        [ver](recursos/)         |
 |  S04   | Texto, enlaces y anclas        | Aprendimos a agregar el Favicon y los metadatos de una pagina personal | [ver](unidad-02/) |        [ver](recursos/img-recorte.png)         |
-|  S05   | Listas y tablas                |                                                                        | [ver](unidad-02/) |        [ver](recursos/)         |
+|  S05   | Listas y tablas                | Aprendi a trabajar los 3 tipos de listas con sus tipos y estilos. Tambien la parte de tablas semanticas   | [ver](unidad-02/) |        [ver](unidad-02-html/sitio-demo/recursos/s05listasytablas.png)         |
 |  S06   | Formularios y semántica        |                                                                        | [ver](unidad-02/) |        [ver](recursos/)         |
 |  S07   | Multimedia                     |                                                                        | [ver](unidad-02/) |        [ver](recursos/)         |
 |  S08   | SVG y repaso                   |                                                                        | [ver](unidad-02/) |        [ver](recursos/)         |
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
 
 | Sesión | Tema                       | Qué aprendí |      Trabajo      |     Captura      |
@@ -85,7 +85,7 @@ Portafolio-Codificación de Páginas Web/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 4 · Páginas web responsivas</b> (sesiones 23 a 28)</summary>
 
 | Sesión | Tema                            | Qué aprendí |      Trabajo      |     Captura      |
@@ -99,7 +99,7 @@ Portafolio-Codificación de Páginas Web/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 5 · Frameworks y librerías</b> (sesiones 31 a 36)</summary>
 
 | Sesión | Tema                          | Qué aprendí |      Trabajo      |     Captura      |
@@ -124,7 +124,7 @@ imágenes representativas de todo el módulo.)_
   <img src="recursos/ejemplo-escritorio.png" width="600" alt="Sitio personal en vista de escritorio">
 </p>
 
-<div align="center"><i>El sitio personal al cierre de la Unidad 3.</i></div>
+<div align="center" markdown="1"><i>El sitio personal al cierre de la Unidad 3.</i></div>
 
 ### El mismo sitio en dos anchos
 
@@ -168,7 +168,7 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 **Nombre Completo** · correo@ejemplo.com
 
